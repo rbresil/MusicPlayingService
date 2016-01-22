@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	package
+		ADDED from AndroidManifest.xml:2:3
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:4:3
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:3
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+uses-sdk
+ADDED from AndroidManifest.xml:6:3
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:6:13
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:8:3
+	android:name
+		ADDED from AndroidManifest.xml:8:20
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:9:3
+	android:name
+		ADDED from AndroidManifest.xml:9:20
+application
+ADDED from AndroidManifest.xml:11:3
+	android:label
+		ADDED from AndroidManifest.xml:13:6
+	android:icon
+		ADDED from AndroidManifest.xml:12:6
+activity#course.examples.MusicActivity
+ADDED from AndroidManifest.xml:15:5
+	android:label
+		ADDED from AndroidManifest.xml:17:8
+	android:name
+		ADDED from AndroidManifest.xml:16:8
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:18:7
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:19:9
+	android:name
+		ADDED from AndroidManifest.xml:19:17
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:20:9
+	android:name
+		ADDED from AndroidManifest.xml:20:19
+service#course.examples.MusicService
+ADDED from AndroidManifest.xml:24:5
+	android:process
+		ADDED from AndroidManifest.xml:26:8
+	android:name
+		ADDED from AndroidManifest.xml:25:8

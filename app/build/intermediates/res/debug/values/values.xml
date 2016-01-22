@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rbresil/AndroidStudioProjects/MusicPlayingService/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MusicPlayingService</string>
+    <string name="defaultURL">"http://www.dre.vanderbilt.edu/~schmidt/braincandy.m4a"</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+</resources>
